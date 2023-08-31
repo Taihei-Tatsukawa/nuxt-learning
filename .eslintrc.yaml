@@ -20,3 +20,6 @@ rules:
   vue/html-indent: 'off'
   vue/html-closing-bracket-newline: 'off'
   vue/singleline-html-element-content-newline: 'off'
+  prettier/prettier:
+    - 'error'
+    - endOfLine: 'auto'
